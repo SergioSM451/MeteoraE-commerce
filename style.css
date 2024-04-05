@@ -13,6 +13,9 @@
     .div-novedades{
         width: 696px;
     }
+    .posicion{
+        top:40%;
+    }
 }
 
 .color-amarillo{
@@ -20,5 +23,9 @@
 }
 
 .color-lila{
-    color:#A3A3A3;
+    background-color:#9353FF;
 }
+.posicion{
+    top:55%;
+}
+
